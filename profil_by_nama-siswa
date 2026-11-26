@@ -124,7 +124,7 @@
   <section id="tentang">
     <h3>Tentang Saya</h3>
     <div class="card">
-      <p>Saya adalah [siswa/mahasiswa/pelajar] di [SMK 17 AGUSTUS 1945] yang berdomisili di [Kota/Kabupaten]. Saat ini saya sedang mempelajari deployment aplikasi web di cloud menggunakan Git dan GitHub Pages.</p>
+      <p>Saya adalah [siswa/mahasiswa/pelajar] di [SMK 17 AGUSTUS 1945] yang berdomisili di [Kota Surabaya]. Saat ini saya sedang mempelajari deployment aplikasi web di cloud menggunakan Git dan GitHub Pages.</p>
     </div>
   </section>
 
