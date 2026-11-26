@@ -3,7 +3,7 @@
 <head>
   <meta charset="UTF-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-  <title>Company Profile - Nusantara Digital</title>
+  <title>Profil - [Nama Lengkap Anda]</title>
   <style>
     * {
       box-sizing: border-box;
@@ -14,7 +14,7 @@
     body {
       line-height: 1.6;
       color: #1f2937;
-      background-color: #f9fafb;
+      background-color: #f8fafc;
     }
     header {
       background: #0f172a;
@@ -26,7 +26,7 @@
       flex-wrap: wrap;
     }
     header h1 {
-      font-size: 1.3rem;
+      font-size: 1.25rem;
     }
     nav a {
       color: #e2e8f0;
@@ -41,22 +41,22 @@
       background: #1e293b;
       color: #ffffff;
       text-align: center;
-      padding: 4rem 1.5rem;
+      padding: 3.5rem 1.5rem;
     }
     .hero h2 {
       font-size: 2rem;
-      margin-bottom: 0.8rem;
+      margin-bottom: 0.6rem;
     }
     .hero p {
-      max-width: 600px;
-      margin: 0 auto 1.5rem;
+      max-width: 620px;
+      margin: 0 auto 1.4rem;
       color: #cbd5e1;
     }
     .btn {
       display: inline-block;
       background: #0284c7;
       color: #ffffff;
-      padding: 0.7rem 1.4rem;
+      padding: 0.65rem 1.3rem;
       border-radius: 6px;
       text-decoration: none;
       font-weight: bold;
@@ -65,35 +65,41 @@
       background: #0369a1;
     }
     section {
-      max-width: 960px;
-      margin: 2.5rem auto;
+      max-width: 920px;
+      margin: 2.2rem auto;
       padding: 0 1.5rem;
     }
     section h3 {
-      font-size: 1.5rem;
+      font-size: 1.4rem;
       margin-bottom: 1rem;
       color: #0f172a;
     }
     .grid {
       display: grid;
-      grid-template-columns: repeat(auto-fit, minmax(250px, 1fr));
+      grid-template-columns: repeat(auto-fit, minmax(240px, 1fr));
       gap: 1.2rem;
     }
     .card {
       background: #ffffff;
-      padding: 1.5rem;
+      padding: 1.4rem;
       border-radius: 8px;
-      border: 1px solid #e5e7eb;
+      border: 1px solid #e2e8f0;
     }
     .card h4 {
       margin-bottom: 0.5rem;
       color: #0284c7;
     }
+    ul {
+      padding-left: 1.2rem;
+    }
+    li {
+      margin-bottom: 0.35rem;
+    }
     footer {
       background: #0f172a;
       color: #94a3b8;
       text-align: center;
-      padding: 1.5rem;
+      padding: 1.4rem;
       margin-top: 3rem;
       font-size: 0.9rem;
     }
@@ -101,41 +107,51 @@
 </head>
 <body>
   <header>
-    <h1>Nusantara Digital</h1>
+    <h1>[Nama Lengkap Anda]</h1>
     <nav>
-      <a href="#tentang">Tentang</a>
-      <a href="#layanan">Layanan</a>
+      <a href="#tentang">Tentang Saya</a>
+      <a href="#keahlian">Keahlian & Proyek</a>
       <a href="#kontak">Kontak</a>
     </nav>
   </header>
 
   <div class="hero">
-    <h2>Solusi Digital & Cloud untuk Bisnis Anda</h2>
-    <p>Kami membantu perusahaan membangun website, aplikasi, dan infrastruktur cloud yang cepat, aman, serta mudah dikembangkan.</p>
-    <a href="#kontak" class="btn">Hubungi Kami</a>
+    <h2>Halo, Saya [Nama Lengkap Anda]</h2>
+    <p>[Kelas / Jurusan / Asal Sekolah atau Kampus] — [Minat utama, misalnya: tertarik pada Cloud Computing, Web Development, dan Jaringan Komputer].</p>
+    <a href="#kontak" class="btn">Kontak Saya</a>
   </div>
 
   <section id="tentang">
-    <h3>Tentang Kami</h3>
+    <h3>Tentang Saya</h3>
     <div class="card">
-      <p>Nusantara Digital adalah perusahaan teknologi yang berfokus pada pengembangan solusi web modern dan layanan komputasi awan untuk UMKM maupun skala enterprise.</p>
+      <p>Saya adalah [siswa/mahasiswa/pelajar] di [Nama Sekolah/Kampus] yang berdomisili di [Kota/Kabupaten]. Saat ini saya sedang mempelajari deployment aplikasi web di cloud menggunakan Git dan GitHub Pages.</p>
     </div>
   </section>
 
-  <section id="layanan">
-    <h3>Layanan Unggulan</h3>
+  <section id="keahlian">
+    <h3>Keahlian & Proyek</h3>
     <div class="grid">
       <div class="card">
-        <h4>Pengembangan Web</h4>
-        <p>Pembuatan company profile, portal informasi, dan aplikasi web responsif di berbagai ukuran layar.</p>
+        <h4>Keahlian</h4>
+        <ul>
+          <li>[Keahlian 1, misal: HTML & CSS]</li>
+          <li>[Keahlian 2, misal: Git & GitHub]</li>
+          <li>[Keahlian 3, misal: Dasar Cloud Computing]</li>
+        </ul>
       </div>
       <div class="card">
-        <h4>Cloud Deployment</h4>
-        <p>Konfigurasi hosting, domain, dan deployment otomatis agar website selalu aktif dan stabil.</p>
+        <h4>Proyek / Tugas</h4>
+        <ul>
+          <li>[Nama Proyek 1, misal: Halaman Profil di GitHub Pages]</li>
+          <li>[Nama Proyek 2, misal: Website Portofolio Sederhana]</li>
+        </ul>
       </div>
       <div class="card">
-        <h4>Dukungan Teknis</h4>
-        <p>Pemeliharaan rutin, pemantauan performa, dan optimasi keamanan sistem.</p>
+        <h4>Hobi & Minat</h4>
+        <ul>
+          <li>[Hobi 1]</li>
+          <li>[Hobi 2]</li>
+        </ul>
       </div>
     </div>
   </section>
@@ -143,13 +159,14 @@
   <section id="kontak">
     <h3>Kontak</h3>
     <div class="card">
-      <p><strong>Email:</strong> halo@nusantaradigital.example</p>
-      <p><strong>Alamat:</strong> Jl. Ahmad Yani No. 10, Surabaya</p>
+      <p><strong>Email:</strong> [emailanda@example.com]</p>
+      <p><strong>GitHub:</strong> https://github.com/[USERNAME_KAMU]</p>
+      <p><strong>Domisili:</strong> [Kota, Provinsi]</p>
     </div>
   </section>
 
   <footer>
-    &copy; 2026 Nusantara Digital. Hak cipta dilindungi.
+    &copy; 2026 [Nama Lengkap Anda]. Dibuat untuk tugas Cloud Computing.
   </footer>
 </body>
 </html>
