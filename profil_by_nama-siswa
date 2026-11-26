@@ -3,7 +3,7 @@
 <head>
   <meta charset="UTF-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-  <title>Profil - [Nama Lengkap Anda]</title>
+  <title>Profil - [IRFAN NOFRIANTO]</title>
   <style>
     * {
       box-sizing: border-box;
@@ -107,7 +107,7 @@
 </head>
 <body>
   <header>
-    <h1>[Nama Lengkap Anda]</h1>
+    <h1>[IRFAN NOFRIANTO]</h1>
     <nav>
       <a href="#tentang">Tentang Saya</a>
       <a href="#keahlian">Keahlian & Proyek</a>
@@ -124,7 +124,7 @@
   <section id="tentang">
     <h3>Tentang Saya</h3>
     <div class="card">
-      <p>Saya adalah [siswa/mahasiswa/pelajar] di [Nama Sekolah/Kampus] yang berdomisili di [Kota/Kabupaten]. Saat ini saya sedang mempelajari deployment aplikasi web di cloud menggunakan Git dan GitHub Pages.</p>
+      <p>Saya adalah [siswa/mahasiswa/pelajar] di [SMK 17 AGUSTUS 1945] yang berdomisili di [Kota/Kabupaten]. Saat ini saya sedang mempelajari deployment aplikasi web di cloud menggunakan Git dan GitHub Pages.</p>
     </div>
   </section>
 
@@ -159,14 +159,14 @@
   <section id="kontak">
     <h3>Kontak</h3>
     <div class="card">
-      <p><strong>Email:</strong> [emailanda@example.com]</p>
+      <p><strong>Email:</strong> [IRFAN NOFRIANTO@gmail.com]</p>
       <p><strong>GitHub:</strong> https://github.com/[USERNAME_KAMU]</p>
       <p><strong>Domisili:</strong> [Kota, Provinsi]</p>
     </div>
   </section>
 
   <footer>
-    &copy; 2026 [Nama Lengkap Anda]. Dibuat untuk tugas Cloud Computing.
+    &copy; 2026 [IRFAN NOFRIANTO]. Dibuat untuk tugas Cloud Computing.
   </footer>
 </body>
 </html>
